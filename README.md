@@ -25,3 +25,5 @@ Use a relational database with multiple tables that are related. Common examples
 Customers and Orders (where each order is linked to a customer)
 Students and Courses (with enrollment information linking students to courses)
 Employees and Departments (employees belong to departments)
+output for task1
+[task1.mysql.txt](https://github.com/user-attachments/files/18734981/task1.mysql.txt)
